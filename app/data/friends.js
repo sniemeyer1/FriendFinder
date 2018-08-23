@@ -1,7 +1,7 @@
 var friends = [
     {
         name: "Savannah",
-        photo: "https://www.flickr.com/photos/savannahniemeyer/5913389356/",
+        photo: "https://c2.staticflickr.com/4/3095/5788674514_b3b34565c4_z.jpg",
         scores: [
             "4",
             "4",
@@ -16,8 +16,8 @@ var friends = [
         ]
     },
     {
-        name: "Dan",
-        photo: "https://lh3.googleusercontent.com/_h4RY2J9zRGvggG9PyQK1CcsJ12Pum0PIM_rKmt4UrTvOT6mpmYN7X2t7L5Vh8BnVDo65gXh8NKrmkOQLtky_Nnhy_PSbG2C0PDGviW1M_3UQuUal6p11EfCIkGavjuVIIebvvF-YSfIT0VgZLKXovlRW3fVT6OOY1AY5YRcOGxuZJAwtSYRL8MBtiCksFcQsgd7O1SeuylWT78EfrChf_fVsFM1hmhLXTN0v_mUcXuWJLe1hJYeDgYY5LjfUowKlkAgyVFReCjs4ku0j0UrbONahunV-73kOBOX1anBlfZegqjSf3vd0nwDoRuX6H0W9NjlB4VZoD6v9k5df4MGjD1llV6MgOpt-a7wJ9XYGBat6r1gYyXXdwjXpvanmGtgpLZK10yPrdd-PHg9X1vQWfsgcJvTVE76L0YO3BWvbB6cs3-z4e9lzHUJeti4MFJxMoQ3wmr-9zCNTy0cKHcYUJUmiyZ8d9aG4m2ULXlpwar8QkOoGa4RmdoK8vb8_S-aP949Q1-s0yG27h4VH-V1nqJdH95WHgY_ZnGQKak2W2_PTYiXNYGUIAbbKvgwRRMjqO3zTxp70_haXDK0HHMDetCFyEwopEGDeYoIvcA=w1860-h1394-no",
+        name: "Kyle",
+        photo: "https://c1.staticflickr.com/7/6019/6296116742_7e11115e87_b.jpg",
         scores: [
             "4",
             "3",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
         name: "Cassie",
-        photo: "https://www.flickr.com/photos/savannahniemeyer/6570891709/",
+        photo: "https://c2.staticflickr.com/8/7003/6570891709_f72162c9a4_z.jpg",
         scores: [
             "5",
             "1",
@@ -49,7 +49,7 @@ var friends = [
     },
     {
         name: "Sali",
-        photo: "https://photos.google.com/photo/AF1QipP6wyNqTE2luL7VkY7xN9R86qEk_yvHfZxmt8lT",
+        photo: "https://c1.staticflickr.com/3/2415/5757573362_28e0bd8368_b.jpg",
         scores: [
             "3",
             "4",
@@ -65,7 +65,7 @@ var friends = [
     },
     {
         name: "Sarah",
-        photo: "https://www.flickr.com/photos/savannahniemeyer/6296111562/",
+        photo: "https://farm7.staticflickr.com/6098/6296111562_49f52522ae_b.jpg",
         scores: [
             "5",
             "1",
